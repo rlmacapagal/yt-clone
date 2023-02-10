@@ -1,0 +1,16 @@
+
+
+.video-item {
+    display: inline-block;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 5%;
+}
+
+.video-item.item img {
+    max-width: 200px;
+    max-height: 250px ;
+    display: inline-block;
+    z-index: -1;
+   
+}
